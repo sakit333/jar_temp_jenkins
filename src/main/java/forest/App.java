@@ -5,6 +5,6 @@ package forest;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello DevOps! with ironrod");
+        System.out.println("Hello DevOps!");
     }
 }
